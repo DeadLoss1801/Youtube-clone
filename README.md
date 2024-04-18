@@ -1,4 +1,5 @@
-# Youtube Clone
+# Video-Stream
+
 ## Tech Stack:- 
 1. React
 2. Express
